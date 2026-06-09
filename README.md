@@ -1,11 +1,10 @@
-# <p align="center">Hi there</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-
-## Github stats
-
-<p align="center">
-    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenghuiyuan&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20"/>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there!👋;&center=true&size=30">
+  </a>
+</h1>
 
 <!--
 **chenghuiyuan/chenghuiyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
